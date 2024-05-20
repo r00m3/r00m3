@@ -25,3 +25,11 @@ for file encryption/decryption/hash.
                   - AES GCM.
                   - Cryptographically secure pseudo random 12 byte nonce.
                   - Cryptographically secure pseudo random 16 byte secret key.
+
+
+[ Requester ]
+Little tool to send custom HTTP requests 
+and receive responses.
+
+        Just an early draft.
+
