@@ -9,6 +9,20 @@
 
 
 
+        [ EE ]
+
+Electrical Engineering notes, 
+drawings and exercises.
+
+> Drawings.
+        - Illustrating PoC of boolean algebra 
+          using transistors in LTSpice.
+> Notes.
+        - Boolean algebra.
+        - Electrical components.
+
+
+
         [ Vellum of Cryptography ]
 
 > Presenting my current knowledge about cryptography.
