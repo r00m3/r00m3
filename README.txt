@@ -1,26 +1,25 @@
 
 
 
-                                    /██████   /██████                 /██████
-                                   /███_  ██ /███_  ██               /██__  ██
-                          /██████ | ████\ ██| ████\ ██ /██████/████ |__/  \ ██
-                         /██__  ██| ██ ██ ██| ██ ██ ██| ██_  ██_  ██   /█████/
-                        | ██  \__/| ██\ ████| ██\ ████| ██ \ ██ \ ██  |___  ██
-                        | ██      | ██ \ ███| ██ \ ███| ██ | ██ | ██ /██  \ ██
-                        | ██      |  ██████/|  ██████/| ██ | ██ | ██|  ██████/
-                        |__/       \______/  \______/ |__/ |__/ |__/ \______/
+                            /██████   /██████                 /██████
+                           /███_  ██ /███_  ██               /██__  ██
+                  /██████ | ████\ ██| ████\ ██ /██████/████ |__/  \ ██
+                 /██__  ██| ██ ██ ██| ██ ██ ██| ██_  ██_  ██   /█████/
+                | ██  \__/| ██\ ████| ██\ ████| ██ \ ██ \ ██  |___  ██
+                | ██      | ██ \ ███| ██ \ ███| ██ | ██ | ██ /██  \ ██
+                | ██      |  ██████/|  ██████/| ██ | ██ | ██|  ██████/
+                |__/       \______/  \______/ |__/ |__/ |__/ \______/
 
 
 
-        [ My brilliant portfolio in case I have to show this to my future employer ]
+________ My brilliant portfolio in case I have to show this to my future employer
 
 > Forgive my mistakes in programs and articles. 
 > There should be plenty.
 > I am far from being as good as I would like to be.
 
 
-
-        [ EE ]
+________ EE ____________________________________________________________________
 
 Electrical Engineering notes, 
 drawings and exercises.
@@ -33,16 +32,14 @@ drawings and exercises.
         - Electrical components.
 
 
-
-        [ Vellum of Cryptography ]
+________ Vellum of Cryptography ________________________________________________
 
 > Presenting my current knowledge about cryptography.
 > In easy to read simplified CLI app.
 > Could be used as introduction material about this topic.
 
 
-
-        [ Menpo ]
+________ Menpo _________________________________________________________________
 
 Proof of Concept 
 for file encryption/decryption/hash.
@@ -56,12 +53,14 @@ for file encryption/decryption/hash.
         - Cryptographically secure pseudo random 16 byte secret key.
 
 
-
-        [ Requester ]
+________ Requester _____________________________________________________________
 
 Little tool to send custom HTTP requests 
 and receive responses.
 
 > Just an early draft...
+
+
+________________________________________________________________________________
 
 
