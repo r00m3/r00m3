@@ -12,7 +12,12 @@
 
 
 
-________ My brilliant portfolio in case I have to show this to my future employer
+_ ______________________________________________________________________
+	____________________________________________________________________ _ _
+
+						My brilliant portfolio 
+						in case I have to show this 
+						to my future employer.
 
 > Forgive my mistakes in programs and articles. 
 > There should be plenty.
@@ -61,6 +66,6 @@ and receive responses.
 > Just an early draft...
 
 
-________________________________________________________________________________
-
+_ _____________________________________________________________________
+	____________________________________________________________________ _ _
 
