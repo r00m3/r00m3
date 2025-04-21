@@ -30,11 +30,11 @@ ________ EE ____________________________________________________________________
 
 
 Drawings:
-        - Illustrating PoC of boolean algebra 
-          using transistors in LTSpice.
+	- Illustrating PoC of boolean algebra 
+	  using transistors in LTSpice.
 Notes:
-        - Boolean algebra.
-        - Electrical components.
+	- Boolean algebra.
+	- Electrical components.
 
 
 ________ Vellum of Cryptography ________________________________________________
@@ -55,10 +55,10 @@ ________ Menpo _________________________________________________________________
 Generate sha256sum of local file.
 Encrypt local file.
 Decrypt local file:
-        - Symmetric authenticated encryption.
-        - AES GCM.
-        - Cryptographically secure pseudo random 12 byte nonce.
-        - Cryptographically secure pseudo random 16 byte secret key.
+	- Symmetric authenticated encryption.
+	- AES GCM.
+	- Cryptographically secure pseudo random 12 byte nonce.
+	- Cryptographically secure pseudo random 16 byte secret key.
 
 
 ________ Requester _____________________________________________________________
