@@ -58,7 +58,7 @@ ________ Menpo _________________________________________________________________
 
 Generate sha256sum of local file.
 Encrypt local file.
-Decrypt local file:
+Decrypt local file.
 	- Symmetric authenticated encryption.
 	- AES GCM.
 	- Cryptographically secure pseudo random 12 byte nonce.
