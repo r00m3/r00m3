@@ -31,6 +31,8 @@ I am far from being as good as I would like to be.
 
 
 
+<br/>
+
 ***
 ## [EE](https://github.com/r00m3/EE)
 _Electrical Engineering notes,\
@@ -47,6 +49,8 @@ using transistors in LTSpice.
 
 
 
+<br/>
+
 ***
 ## [Studies](https://github.com/r00m3/Studies)
 _My works in study environment._
@@ -59,6 +63,8 @@ _My works in study environment._
 
 
 
+<br/>
+
 ***
 ## [RPI_Pico_Projects](https://github.com/r00m3/RPI_Pico_Projects)
 _Quick simple projects\
@@ -67,6 +73,8 @@ to get more familiar with uCs._
 <br/>
 
 
+
+<br/>
 
 ***
 ## [Menpo](https://github.com/r00m3/Menpo)
@@ -85,6 +93,8 @@ Decrypt local file.
 
 
 
+<br/>
+
 ***
 ## [Boggart](https://github.com/r00m3/Boggart)
 _Purpose of program Boggart is to convert user input
@@ -100,6 +110,8 @@ Input ->
 
 
 
+<br/>
+
 ***
 ## [Vellum of Cryptography](https://github.com/r00m3/Vellum_of_Cryptography)
 _Presenting my current knowledge about cryptography.\
@@ -109,6 +121,8 @@ Could be used as introduction material about this topic._
 <br/>
 
 
+
+<br/>
 
 ***
 ## [Requester](https://github.com/r00m3/Requester)
