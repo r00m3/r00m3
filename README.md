@@ -41,7 +41,7 @@ drawings and exercises._
 <br/>
 
 ##### Drawings
-- Illustrating PoC of boolean algebra
+- Illustrating PoC of boolean algebra\
 using transistors in LTSpice.
 ##### Notes
 - Boolean algebra.
@@ -58,7 +58,8 @@ _My works in study environment._
 <br/>
 
 - Pneumatic.
-- Computer architecture PoC (MMIO using two ICs and 3 transistors).
+- Computer architecture PoC\
+  (MMIO using two ICs and 3 transistors).
 
 
 
@@ -82,8 +83,8 @@ for file encryption/decryption/hash._
 <br/>
 <br/>
 
-Generate sha256sum of local file.
-Encrypt local file.
+Generate sha256sum of local file.\
+Encrypt local file.\
 Decrypt local file.
 - Symmetric authenticated encryption.
 - AES GCM.
@@ -96,7 +97,7 @@ Decrypt local file.
 
 ***
 ## [Boggart](https://github.com/r00m3/Boggart)
-_Purpose of program Boggart is to convert user input
+_Purpose of program Boggart is to convert user input\
 from one form to another._
 <br/>
 <br/>
@@ -125,7 +126,7 @@ Could be used as introduction material about this topic._
 
 ***
 ## [Requester](https://github.com/r00m3/Requester)
-_Little tool to send custom HTTP requests
+_Little tool to send custom HTTP requests\
 and receive responses._
 <br/>
 <br/>
