@@ -46,7 +46,7 @@ ________ Studies _______________________________________________________________
 
 		My works in study environment:
 
-			- Pneumatics.
+			- Pneumatic.
 			- Computer architecture PoC
 			  (MMIO using two ICs and 3 transistors).
 
