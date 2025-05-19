@@ -45,7 +45,6 @@ drawings and exercises._
 - Illustrating PoC of boolean algebra\
 using transistors in LTSpice.
 #### [Notes](https://github.com/r00m3/EE/tree/main/Electrical_Components)
-- Boolean algebra.
 - Electrical components.
 
 
