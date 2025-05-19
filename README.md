@@ -39,11 +39,12 @@ _Electrical Engineering notes,\
 drawings and exercises._
 <br/>
 <br/>
+<br/>
 
-##### Drawings
+#### Drawings ->
 - Illustrating PoC of boolean algebra\
 using transistors in LTSpice.
-##### Notes
+#### Notes ->
 - Boolean algebra.
 - Electrical components.
 
@@ -54,6 +55,7 @@ using transistors in LTSpice.
 ***
 ## [Studies](https://github.com/r00m3/Studies)
 _My works in study environment._
+<br/>
 <br/>
 <br/>
 
@@ -71,6 +73,7 @@ _Quick simple projects\
 to get more familiar with uCs._
 <br/>
 <br/>
+<br/>
 
 
 
@@ -82,10 +85,11 @@ _Proof of Concept\
 for file encryption/decryption/hash._
 <br/>
 <br/>
+<br/>
 
 Generate sha256sum of local file.\
 Encrypt local file.\
-Decrypt local file.
+Decrypt local file:
 - Symmetric authenticated encryption.
 - AES GCM.
 - Cryptographically secure pseudo random 12 byte nonce.
@@ -101,8 +105,9 @@ _Purpose of program Boggart is to convert user input\
 from one form to another._
 <br/>
 <br/>
+<br/>
 
-Input ->
+Input to:
 - base-16
 - base-10
 - base-2
@@ -119,7 +124,7 @@ In easy to read simplified CLI app.\
 Could be used as introduction material about this topic._
 <br/>
 <br/>
-
+<br/>
 
 
 <br/>
@@ -128,6 +133,7 @@ Could be used as introduction material about this topic._
 ## [Requester](https://github.com/r00m3/Requester)
 _Little tool to send custom HTTP requests\
 and receive responses._
+<br/>
 <br/>
 <br/>
 
