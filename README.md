@@ -58,8 +58,7 @@ _My works in study environment._
 <br/>
 
 - Pneumatic.
-- Computer architecture PoC
-  (MMIO using two ICs and 3 transistors).
+- Computer architecture PoC (MMIO using two ICs and 3 transistors).
 
 
 
@@ -86,10 +85,10 @@ for file encryption/decryption/hash._
 Generate sha256sum of local file.
 Encrypt local file.
 Decrypt local file.
-	- Symmetric authenticated encryption.
-	- AES GCM.
-	- Cryptographically secure pseudo random 12 byte nonce.
-	- Cryptographically secure pseudo random 16 byte secret key.
+- Symmetric authenticated encryption.
+- AES GCM.
+- Cryptographically secure pseudo random 12 byte nonce.
+- Cryptographically secure pseudo random 16 byte secret key.
 
 
 
@@ -103,10 +102,10 @@ from one form to another._
 <br/>
 
 Input ->
-	- base-16
-	- base-10
-	- base-2
-	- Unicode
+- base-16
+- base-10
+- base-2
+- Unicode
 
 
 
@@ -131,5 +130,5 @@ and receive responses._
 <br/>
 <br/>
 
-Just an early draft...
+_Just an early draft..._
 
