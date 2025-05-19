@@ -33,10 +33,10 @@ ________ EE ____________________________________________________________________
 		drawings and exercises.
 
 
-Drawings:
+Drawings
 	- Illustrating PoC of boolean algebra
 	  using transistors in LTSpice.
-Notes:
+Notes
 	- Boolean algebra.
 	- Electrical components.
 
